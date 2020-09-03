@@ -1,0 +1,16 @@
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\bin\Debug\Enes_proje.exe.config
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\bin\Debug\Enes_proje.exe
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\bin\Debug\Enes_proje.pdb
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\ok_ve_yay_oyunu.csprojAssemblyReference.cache
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form1.resources
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form2.resources
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form3.resources
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form4.resources
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Properties.Resources.resources
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\ok_ve_yay_oyunu.csproj.GenerateResource.cache
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\ok_ve_yay_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\ok_ve_yay_oyunu.csproj.CopyComplete
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.exe
+C:\Users\Makine\Desktop\githuba koyulacaklar\ok_ve_yay_oyunu\Enes_proje\Enes_proje\obj\Debug\Enes_proje.pdb

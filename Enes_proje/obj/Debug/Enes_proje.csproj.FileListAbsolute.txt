@@ -1,0 +1,16 @@
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\bin\Debug\Enes_proje.exe.config
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\bin\Debug\Enes_proje.exe
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\bin\Debug\Enes_proje.pdb
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.csprojAssemblyReference.cache
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form1.resources
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Properties.Resources.resources
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.csproj.GenerateResource.cache
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.csproj.CoreCompileInputs.cache
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.exe
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.pdb
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form2.resources
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form3.resources
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.csproj.CopyComplete
+C:\Users\Makine\Desktop\c# ödevi\enes_proje\Enes_proje\Enes_proje\obj\Debug\Enes_proje.Form4.resources
